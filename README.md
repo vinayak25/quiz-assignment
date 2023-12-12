@@ -1,21 +1,18 @@
-# Codecademy Frontend Takehome: Multiple Choice Quizzes
+# Frontend Task: Multiple Choice Quizzes
 
 👋 Hi there!
 Thanks for taking the time to work on a frontend takehome assignment.
-We really appreciate you applying to work at Codecademy!
 
 This README.md details the prompt for your assignment.
 Rest assured, we won't use the code for anything other than as part of your application.
-
-You can see the competencies we'll be grading it on [here](https://github.com/Codecademy/engineering-competencies/blob/master/interviews/frontend-takehome.md). We expect this to take you roughly 2-3 hours. Please let us know if there's anything unclear about it!
 
 > We recommend copy & pasting these instructions into https://dillinger.io/ to view them as formatted text.
 
 ## The Situation
 
-Codecademy needs an embeddable multiple choice quiz widget to help learners evaluate their skills.
+We need an embeddable multiple choice quiz widget to help learners evaluate their skills.
 
-You're an engineer at Codecademy and tasked with building it.
+You're an engineer at Squareboat and tasked with building it.
 Hooray! 🎉
 
 See `./mockups/*.png` for rough descriptions of what it should look like.
